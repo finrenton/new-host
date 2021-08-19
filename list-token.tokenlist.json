@@ -655,6 +655,7 @@
         "decimals": 18,
         "logoURI": "https://eleven.finance/ELE-logo.svg"
       },
+
 	  {
 	  "name": "Reverse",
 "address": "0x5dd175a4242afe19e5c1051d8cd13fc8979f2329",
@@ -662,11 +663,21 @@
 "decimals": 9,
 "chainId": 137,
 "logoURI": "https://user-images.githubusercontent.com/85872070/129144899-4c4245e9-19d0-4c22-a930-5d7db497eb2c.png"
-	  }
+	  },
+
+      {
+      "chainId": 137,
+      "address": "0x692AC1e363ae34b6B489148152b12e2785a3d8d6",
+      "name": "Polytrade",
+      "symbol": "TRADE",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10465.png"
+    }
+
   ],
   "version": {
     "major": 1,
-    "minor": 44,
+    "minor": 47,
     "patch": 0
   }
 }
